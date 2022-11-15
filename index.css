@@ -38,7 +38,7 @@ h1 {
     margin-bottom: 10px;
 }
 
-h1, h2 {
+h1, h2, p {
     text-shadow: 0 0 5px white;
 }
 
